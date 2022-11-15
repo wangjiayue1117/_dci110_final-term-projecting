@@ -1,0 +1,22 @@
+body 
+{background-color: rgb(255, 255, 255);
+}
+nav {font-family: 'Mulish', sans-serif;}
+
+h2 {font-family: 'Happy Monkey', cursive;}
+
+h5 {font-family: 'Mulish', sans-serif;}
+
+
+.text-block {
+    position: absolute;
+    bottom: 120px;
+    right: 365px;
+    background-color: rgba(243, 130, 0, 0.355);
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  

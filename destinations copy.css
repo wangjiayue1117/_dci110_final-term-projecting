@@ -1,0 +1,30 @@
+body 
+{background-color: lavender;
+}
+nav {
+    font-family: 'Mulish', sans-serif;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 480px;
+    right: 350px;
+    background-color: rgba(255, 226, 164, 0.186);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+  }
+
+h1 {font-family: 'Happy Monkey', cursive;}
+
+h4 {font-family: 'Happy Monkey', cursive;}
+
+h2 {font-family: 'Happy Monkey', cursive;}
+
+p {font-family: 'Mulish', sans-serif;}
+
+footer {
+    background:#fff6e471;  
+    }
